@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{cimpoi14describing}
+M.~Cimpoi, S.~Maji, I.~Kokkinos, S.~Mohamed, , and A.~Vedaldi.
+\newblock Describing textures in the wild.
+\newblock In {\em Proceedings of the {IEEE} Conf. on Computer Vision and
+  Pattern Recognition ({CVPR})}, 2014.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{krizhevsky2009learning}
+Alex Krizhevsky and Geoffrey Hinton.
+\newblock Learning multiple layers of features from tiny images.
+\newblock Technical report, Citeseer, 2009.
+
+\bibitem{NIPS2012_4824}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In F.~Pereira, C.~J.~C. Burges, L.~Bottou, and K.~Q. Weinberger,
+  editors, {\em Advances in Neural Information Processing Systems 25}, pages
+  1097--1105. Curran Associates, Inc., 2012.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, Patrick Haffner, et~al.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{Nilsback06}
+M-E. Nilsback and A.~Zisserman.
+\newblock A visual vocabulary for flower classification.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, volume~2, pages 1447--1454, 2006.
+
+\bibitem{quattoni2009recognizing}
+Ariadna Quattoni and Antonio Torralba.
+\newblock Recognizing indoor scenes.
+\newblock In {\em 2009 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 413--420. IEEE, 2009.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\end{thebibliography}
