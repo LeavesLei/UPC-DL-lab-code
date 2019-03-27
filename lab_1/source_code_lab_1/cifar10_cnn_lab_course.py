@@ -1,6 +1,6 @@
 """
 @author:Leaves
-@file: 17flowers_cnn_lab_course.py 
+@file: cifar10_cnn_lab_course.py 
 @time: 2019/03/01
 """
 import os
