@@ -10,6 +10,6 @@ If you have any questions about my codes or reports, please contact me: [leishiy
 
 ### [lab_2: RNN](./lab_2)
 - **Report:** [Recognize MNIST dataset with RNN](./lab_2/lab_report/report.pdf).
-- **Source code:** [source_code_lab_2](./lab_2/source_code_lab_1).
+- **Source code:** [source_code_lab_2](./lab_2/source_code_lab_2).
 
  
