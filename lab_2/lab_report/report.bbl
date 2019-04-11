@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Elman90findingstructure}
+Jeffrey~L. Elman.
+\newblock Finding structure in time.
+\newblock {\em COGNITIVE SCIENCE}, 14(2):179--211, 1990.
+
+\bibitem{doi:10.1162/neco.1997.9.8.1735}
+Sepp Hochreiter and Jürgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+
+\bibitem{krizhevsky2009learning}
+Alex Krizhevsky and Geoffrey Hinton.
+\newblock Learning multiple layers of features from tiny images.
+\newblock Technical report, Citeseer, 2009.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, Patrick Haffner, et~al.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\end{thebibliography}
