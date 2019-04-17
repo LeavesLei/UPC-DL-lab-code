@@ -12,4 +12,6 @@ If you have any questions about my codes or reports, please contact me: [leishiy
 - **Report:** [Recognize MNIST dataset with RNN](./lab_2/lab_report/report.pdf).
 - **Source code:** [source_code_lab_2](./lab_2/source_code_lab_2).
 
- 
+### [lab_3: Embedding](./lab_3)
+- **Report:** [Word2vec with Marvel Films’ dialogues](./lab_3/lab_report/report.pdf).
+- **Source code:** [source_code_lab_3](./lab_3/source_code_lab_3).
