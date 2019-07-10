@@ -1,6 +1,5 @@
 ## UPC-DL-lab-code
-
-This is my lab report repository for UPC-FIB Deep Learning course.
+My lab report repository for UPC-FIB Deep Learning course.
 
 If you have any questions about my codes or reports, please contact me: [leishiye@gmail.com](leishiye@gmail.com).
 
